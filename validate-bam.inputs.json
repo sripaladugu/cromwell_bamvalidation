@@ -1,5 +1,5 @@
 {
   "ValidateBamsWf.bam_array": [ 
-      "/gstore/data/casino/workspace/sri/bamvalidation-inputs/NA12878_24RG_small.hg38.bam"
+      "s3://sripaladugu/bamvalidation-inputs/NA12878_24RG_small.hg38.bam"
   ]
 }
